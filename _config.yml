@@ -1,22 +1,27 @@
 ---
-workshop_id:
+workshop_id: HT_UW_OCS_20220210_01
 topic: open-code
-title: Open Code Workshop
-instructors: []
-instructor_emails: []
+title: Foundations for Open Code and Software
+instructors:
+  - Heather Turner
+instructor_emails:
+  - h.turner.1@warwick.ac.uk
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - git
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: null
+address: |-
+  Flat 12 Ebbw Court
+  Woodward Road, Crosskeys
+country: GB
+latitude: null
+longitude: null
+start_date: null
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
