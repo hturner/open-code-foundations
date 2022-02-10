@@ -71,4 +71,3 @@ collaboration among different people.
 > These modern systems also include powerful merging tools that make it possible for 
 > multiple authors to work on
 > the same files concurrently.
-{: .callout}
