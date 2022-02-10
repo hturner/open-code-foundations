@@ -10,6 +10,7 @@ objectives:
 keypoints:
 - "Version control is like an unlimited 'undo'."
 - "Version control also allows many people to work in parallel."
+ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 ---
 
 We'll start by exploring how version control can be used
