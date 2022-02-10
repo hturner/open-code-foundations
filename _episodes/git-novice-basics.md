@@ -3,16 +3,18 @@ title: Automated Version Control
 teaching: 5
 exercises: 0
 questions:
-- "What is version control and why should I use it?"
+  - What is version control and why should I use it?
 objectives:
-- "Understand the benefits of an automated version control system."
-- "Understand the basics of how automated version control systems work."
+  - Understand the benefits of an automated version control system.
+  - Understand the basics of how automated version control systems work.
 keypoints:
-- "Version control is like an unlimited 'undo'."
-- "Version control also allows many people to work in parallel."
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
----
+  - Version control is like an unlimited 'undo'.
+  - Version control also allows many people to work in parallel.
+ukrn_wb_rules: null
+day: 1
+order: 130000
 
+---
 We'll start by exploring how version control can be used
 to keep track of what one person did and when.
 Even if you aren't collaborating with other people,
